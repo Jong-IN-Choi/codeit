@@ -8,4 +8,4 @@
 - **최종 프로젝트**: 대형 마트 고객 데이터를 활용한 RFM 분석  
 
 ## 수료증  
-[🔗 수료증 확인하기](https://www.codeit.kr/kdc/certificates/XQsWN-j0WUX-VsT6f-zD7g9)  
+[수료증 확인하기](https://www.codeit.kr/kdc/certificates/XQsWN-j0WUX-VsT6f-zD7g9)  
